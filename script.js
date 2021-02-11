@@ -33,7 +33,7 @@ function animateText() {
 
 function countDown(){
     // var est_time = new Date('February 12, 2021 00:00:00').getTime();
-    var est_time = new Date('February 11, 2021 17:40:00').getTime();
+    var est_time = new Date('February 12, 2021 00:00:00').getTime();
 
     var interval = setInterval(function(){
         var time_now = new Date().getTime();
